@@ -53,4 +53,4 @@ Conclusion
 
 This MFA system provides a comprehensive approach to digital security, balancing robust protection with user-friendly features. With a 93% success rate and advanced facial recognition, it is suited for a variety of secure applications.
 
-For a detailed explanation of the project, [watch the video Explanation here](Beyond Passwords A Multi-Factor Authentication Approach for Robust Digital Security.mp4).
+For a detailed explanation of the project, [watch the video Explanation here]([Beyond Passwords A Multi-Factor Authentication Approach for Robust Digital Security.mp4](https://github.com/Raghavanhk/Projects/blob/main/Beyond%20Passwords%20A%20Multi-Factor%20Authentication%20Approach%20for%20Robust%20Digital%20Security.mp4)).
